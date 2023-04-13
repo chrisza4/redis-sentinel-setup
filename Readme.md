@@ -7,7 +7,8 @@ This repo provide simple script and step to set it up.
 Steps
 
 1. Install Redis. For Mac OS I recommend `brew install redis`
-2. Run start.sh
+2. change dir to /path/to/redis-sentinel-setup in file sentinel.conf
+3. Run start.sh
 
 ### Detail explanation of the setup
 
